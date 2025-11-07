@@ -1,0 +1,9 @@
+wuerth_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.ipynb_checkpoints/
+eda_plots/
