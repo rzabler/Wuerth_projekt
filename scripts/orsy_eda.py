@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # ---------------- Config ------------------
-DATA_PATH = "dataset_wuerth.csv"   # Pfad zur CSV anpassen, falls nötig
+DATA_PATH = "data/dataset_wuerth.csv"   # Pfad zur CSV anpassen, falls nötig
 PLOT_DIR  = "eda_plots"            # Hierhin werden PNGs gespeichert
 DATE_COLS = ["last_buy", "cust_since"]
 
